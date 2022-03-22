@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: url("/image/crossword.png");
+    
+   
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    
+}
+.navbar-brand {
+    
+    margin-left: 40px;
+    
+}
+ nav.navbar  {
+    
+   background-color: #D9AB82;
+    
+}
+div.container-fluid  {
+    
+   font-size: 14px;
+ }
+  ul.nav{
+    padding: 100px;
+   background-color: #394D59;
+   
+  }
+  a.nav-link {
+    color: whitesmoke;
+   
+  }
+  h5.card-title {
+    color: #593318;
+   
+  }
+  .copy {
+    text-align: center;
+   
+  }
+  a.navbar-brand {
+    font-family: 'Lemonada', cursive;
+    padding-right: 100px;
+  }
+  
